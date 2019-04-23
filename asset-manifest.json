@@ -1,16 +1,16 @@
 {
   "main.css": "/RetinaX/static/css/main.93b41b20.chunk.css",
-  "main.js": "/RetinaX/static/js/main.805fa935.chunk.js",
-  "main.js.map": "/RetinaX/static/js/main.805fa935.chunk.js.map",
+  "main.js": "/RetinaX/static/js/main.50942112.chunk.js",
+  "main.js.map": "/RetinaX/static/js/main.50942112.chunk.js.map",
   "static/css/1.f47d3b8f.chunk.css": "/RetinaX/static/css/1.f47d3b8f.chunk.css",
-  "static/js/1.84844448.chunk.js": "/RetinaX/static/js/1.84844448.chunk.js",
-  "static/js/1.84844448.chunk.js.map": "/RetinaX/static/js/1.84844448.chunk.js.map",
+  "static/js/1.efed223c.chunk.js": "/RetinaX/static/js/1.efed223c.chunk.js",
+  "static/js/1.efed223c.chunk.js.map": "/RetinaX/static/js/1.efed223c.chunk.js.map",
   "runtime~main.js": "/RetinaX/static/js/runtime~main.3d29ab4b.js",
   "runtime~main.js.map": "/RetinaX/static/js/runtime~main.3d29ab4b.js.map",
   "static/media/katex.min.css": "/RetinaX/static/media/KaTeX_Main-Regular.7b8d1fa0.ttf",
-  "static/css/1.f47d3b8f.chunk.css.map": "/RetinaX/static/css/1.f47d3b8f.chunk.css.map",
   "static/css/main.93b41b20.chunk.css.map": "/RetinaX/static/css/main.93b41b20.chunk.css.map",
+  "static/css/1.f47d3b8f.chunk.css.map": "/RetinaX/static/css/1.f47d3b8f.chunk.css.map",
   "index.html": "/RetinaX/index.html",
-  "precache-manifest.1ccdb2dbcb14f25e66a96e7d0a0fd63c.js": "/RetinaX/precache-manifest.1ccdb2dbcb14f25e66a96e7d0a0fd63c.js",
+  "precache-manifest.da17edb71e8d974054e1cd4b009756d3.js": "/RetinaX/precache-manifest.da17edb71e8d974054e1cd4b009756d3.js",
   "service-worker.js": "/RetinaX/service-worker.js"
 }

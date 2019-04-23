@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/RetinaX/precache-manifest.1ccdb2dbcb14f25e66a96e7d0a0fd63c.js"
+  "/RetinaX/precache-manifest.da17edb71e8d974054e1cd4b009756d3.js"
 );
 
 workbox.clientsClaim();
