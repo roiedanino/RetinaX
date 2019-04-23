@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ab1f0baec4ec94423513",
+    "revision": "805fa93506c089ef467d",
     "url": "/RetinaX/static/css/main.93b41b20.chunk.css"
   },
   {
-    "revision": "ab1f0baec4ec94423513",
-    "url": "/RetinaX/static/js/main.ab1f0bae.chunk.js"
+    "revision": "805fa93506c089ef467d",
+    "url": "/RetinaX/static/js/main.805fa935.chunk.js"
   },
   {
     "revision": "848444489cb478c28f14",
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/js/runtime~main.3d29ab4b.js"
   },
   {
-    "revision": "a7a0eb93afb696cb9b4efb87e6cd45a3",
-    "url": "/RetinaX/static/media/KaTeX_Size2-Regular.a7a0eb93.woff2"
-  },
-  {
     "revision": "1d6cf6b89f694dc76e13ecc4e8214dd2",
     "url": "/RetinaX/static/media/KaTeX_Size1-Regular.1d6cf6b8.woff"
   },
   {
     "revision": "fda0824e8cfb676664ad063c367cfce3",
     "url": "/RetinaX/static/media/KaTeX_Size1-Regular.fda0824e.woff2"
+  },
+  {
+    "revision": "a7a0eb93afb696cb9b4efb87e6cd45a3",
+    "url": "/RetinaX/static/media/KaTeX_Size2-Regular.a7a0eb93.woff2"
   },
   {
     "revision": "f48e83b7bcaa68a86a78e8edfee1a04e",
@@ -52,28 +52,32 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_Size4-Regular.726db3bd.woff"
   },
   {
-    "revision": "0ef0f2e356a2e1c457b6585d34edae77",
-    "url": "/RetinaX/static/media/KaTeX_Caligraphic-Regular.0ef0f2e3.woff2"
+    "revision": "970d3e76493b82fccf21ad5888ddee77",
+    "url": "/RetinaX/static/media/KaTeX_Caligraphic-Bold.970d3e76.woff2"
   },
   {
     "revision": "445f96a387df0d13ded71f27c608516d",
     "url": "/RetinaX/static/media/KaTeX_Caligraphic-Bold.445f96a3.woff"
   },
   {
-    "revision": "970d3e76493b82fccf21ad5888ddee77",
-    "url": "/RetinaX/static/media/KaTeX_Caligraphic-Bold.970d3e76.woff2"
-  },
-  {
     "revision": "74f6918c7d2b768ffd32048102bc0172",
     "url": "/RetinaX/static/media/KaTeX_Caligraphic-Regular.74f6918c.woff"
+  },
+  {
+    "revision": "0ef0f2e356a2e1c457b6585d34edae77",
+    "url": "/RetinaX/static/media/KaTeX_Caligraphic-Regular.0ef0f2e3.woff2"
+  },
+  {
+    "revision": "e38d0f6844b9520510715fd989bdd5bd",
+    "url": "/RetinaX/static/media/KaTeX_SansSerif-Bold.e38d0f68.woff2"
   },
   {
     "revision": "1057b70228cb6936e7714e7817db6ce2",
     "url": "/RetinaX/static/media/KaTeX_SansSerif-Italic.1057b702.woff2"
   },
   {
-    "revision": "e38d0f6844b9520510715fd989bdd5bd",
-    "url": "/RetinaX/static/media/KaTeX_SansSerif-Bold.e38d0f68.woff2"
+    "revision": "ae1fad1f4d1c227c9d567da8ea9f988c",
+    "url": "/RetinaX/static/media/KaTeX_Script-Regular.ae1fad1f.woff2"
   },
   {
     "revision": "f9e06d59e70de05c5f0b7f7f65c14565",
@@ -86,10 +90,6 @@ self.__precacheManifest = [
   {
     "revision": "f2e296ef7cef0f6f16912e5d171929b2",
     "url": "/RetinaX/static/media/KaTeX_Size1-Regular.f2e296ef.ttf"
-  },
-  {
-    "revision": "ae1fad1f4d1c227c9d567da8ea9f988c",
-    "url": "/RetinaX/static/media/KaTeX_Script-Regular.ae1fad1f.woff2"
   },
   {
     "revision": "0767ede65042583bcc06f09055f4d7ca",
@@ -108,10 +108,6 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_Caligraphic-Bold.3f61a84d.ttf"
   },
   {
-    "revision": "c3bc8fcec0e85a50cabf71e4e8074991",
-    "url": "/RetinaX/static/media/KaTeX_Caligraphic-Regular.c3bc8fce.ttf"
-  },
-  {
     "revision": "950649ba5e5cfd37cdad74095411d350",
     "url": "/RetinaX/static/media/KaTeX_Fraktur-Bold.950649ba.woff2"
   },
@@ -120,12 +116,16 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_Fraktur-Bold.1aca7ef7.woff"
   },
   {
-    "revision": "c5b430bfcb3e5423b77401afcdb69b66",
-    "url": "/RetinaX/static/media/KaTeX_Fraktur-Regular.c5b430bf.woff"
-  },
-  {
     "revision": "135ccd74931753318f6f52f3fce19018",
     "url": "/RetinaX/static/media/KaTeX_Fraktur-Regular.135ccd74.woff2"
+  },
+  {
+    "revision": "c3bc8fcec0e85a50cabf71e4e8074991",
+    "url": "/RetinaX/static/media/KaTeX_Caligraphic-Regular.c3bc8fce.ttf"
+  },
+  {
+    "revision": "c5b430bfcb3e5423b77401afcdb69b66",
+    "url": "/RetinaX/static/media/KaTeX_Fraktur-Regular.c5b430bf.woff"
   },
   {
     "revision": "0719833c23aeba83786a29e84a165875",
@@ -168,10 +168,6 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_Main-Bold.c5b67fb3.woff2"
   },
   {
-    "revision": "5aeca883bc41b522fdf1409ee912b51c",
-    "url": "/RetinaX/static/media/KaTeX_Main-BoldItalic.5aeca883.woff"
-  },
-  {
     "revision": "bb7c45db8908c8fb88a293895a64e018",
     "url": "/RetinaX/static/media/KaTeX_Main-Italic.bb7c45db.woff"
   },
@@ -184,16 +180,12 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_SansSerif-Regular.2eae604d.ttf"
   },
   {
+    "revision": "5aeca883bc41b522fdf1409ee912b51c",
+    "url": "/RetinaX/static/media/KaTeX_Main-BoldItalic.5aeca883.woff"
+  },
+  {
     "revision": "e9169ca7b32608b6235ec9ffff742a71",
     "url": "/RetinaX/static/media/KaTeX_Script-Regular.e9169ca7.ttf"
-  },
-  {
-    "revision": "ac1d46d953d403677171697581a284d2",
-    "url": "/RetinaX/static/media/KaTeX_AMS-Regular.ac1d46d9.woff"
-  },
-  {
-    "revision": "3d8245dcb4489694a6a263b05c1cca01",
-    "url": "/RetinaX/static/media/KaTeX_AMS-Regular.3d8245dc.woff2"
   },
   {
     "revision": "a9509497466d16e6b7265a223ea39093",
@@ -208,6 +200,10 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_Main-Bold.0ba875a1.woff"
   },
   {
+    "revision": "3d8245dcb4489694a6a263b05c1cca01",
+    "url": "/RetinaX/static/media/KaTeX_AMS-Regular.3d8245dc.woff2"
+  },
+  {
     "revision": "1fd21713706a2b70960faf21b1fa4e26",
     "url": "/RetinaX/static/media/KaTeX_Main-Regular.1fd21713.woff"
   },
@@ -220,16 +216,20 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_SansSerif-Bold.9123667c.ttf"
   },
   {
+    "revision": "ac1d46d953d403677171697581a284d2",
+    "url": "/RetinaX/static/media/KaTeX_AMS-Regular.ac1d46d9.woff"
+  },
+  {
     "revision": "6b9645af6e119fd5d85f24e21044ed03",
     "url": "/RetinaX/static/media/KaTeX_Typewriter-Regular.6b9645af.ttf"
   },
   {
-    "revision": "bdbadb27e05fb8e51da903db59f90d77",
-    "url": "/RetinaX/static/media/KaTeX_Main-BoldItalic.bdbadb27.ttf"
-  },
-  {
     "revision": "2155d7897af94033a6b6ed44133b867e",
     "url": "/RetinaX/static/media/KaTeX_Main-Italic.2155d789.ttf"
+  },
+  {
+    "revision": "bdbadb27e05fb8e51da903db59f90d77",
+    "url": "/RetinaX/static/media/KaTeX_Main-BoldItalic.bdbadb27.ttf"
   },
   {
     "revision": "10740d7488d690a743339650103f1cb3",
@@ -248,7 +248,7 @@ self.__precacheManifest = [
     "url": "/RetinaX/static/media/KaTeX_Main-Regular.7b8d1fa0.ttf"
   },
   {
-    "revision": "8366cc5024ba8e75d1a71e8d28b0fd9b",
+    "revision": "2862334a2ddb45a6f409bb9d67a0ef59",
     "url": "/RetinaX/index.html"
   }
 ];
